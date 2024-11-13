@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0163-missing-ranges](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0163-missing-ranges) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 ## Divide and Conquer

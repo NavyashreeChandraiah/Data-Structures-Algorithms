@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0680-valid-palindrome-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

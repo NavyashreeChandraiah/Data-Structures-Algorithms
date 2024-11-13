@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0408-valid-word-abbreviation](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
 | [0408-valid-word-abbreviation](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0680-valid-palindrome-ii) |
 ## Array

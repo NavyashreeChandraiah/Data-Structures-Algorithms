@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
 | [0408-valid-word-abbreviation](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -50,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->

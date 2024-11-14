@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0227-basic-calculator-ii) |
 | [0408-valid-word-abbreviation](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -54,5 +55,10 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->

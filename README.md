@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -83,4 +85,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

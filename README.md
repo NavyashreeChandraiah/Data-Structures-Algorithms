@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0408-valid-word-abbreviation](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |

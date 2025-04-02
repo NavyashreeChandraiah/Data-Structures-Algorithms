@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0227-basic-calculator-ii) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NavyashreeChandraiah/Data-Structures-Algorithms/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
